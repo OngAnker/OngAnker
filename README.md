@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OngAnker
+- 👀 I’m interested in C#, C++, Lua, Python
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on C# Porjects
+- 📫 How to reach me Discord, my discord is Anker#0853
