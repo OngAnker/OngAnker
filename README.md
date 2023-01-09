@@ -1,4 +1,4 @@
-![https://discord.com/users/946132773620555838](https://discord.c99.nl/widget/theme-2/407205917126557696.png)
+![https://discord.com/users/946132773620555838](https://discord.c99.nl/widget/theme-2/946132773620555838.png)
 
 - 👋 Hi, I’m @OngAnker
 - 👀 I’m interested in C#, C++, Lua, Python
