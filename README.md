@@ -5,7 +5,5 @@
 
 ### Coding Languages I Know.
 
-<div align="center">
 ![C#](https://img.shields.io/badge/CSharp-pink?logo=CSharp)]
 ![C++](https://img.shields.io/badge/CPP-purple?logo=CPlusPlus)]
-</div>
