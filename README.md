@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hello!</h2>
-<div/>
+</div>
 [![Discord Presence](https://lanyard.cnrad.dev/api/946132773620555838)
 
 ### Coding Languages I Know.
