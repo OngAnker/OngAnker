@@ -1,8 +1,11 @@
+<div align="center">
+<h2>Hello!</h2>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1106620371307864085)]
+</div>
 
-![https://discord.com/users/946132773620555838](https://discord.c99.nl/widget/theme-2/946132773620555838.png)
+### Coding Languages I Know.
 
-- 👋 Hi, I’m @OngAnker
-- 👀 I’m interested in C#, C++, Lua, Python
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on C# Projects
-- 📫 How to reach me Discord, my discord is Anker#0853
+<div align="center">
+![C#](https://img.shields.io/badge/CSharp-pink?logo=CSharp)
+![C++](https://img.shields.io/badge/CPP-purple?logo=CPlusPlus)
+</div>
