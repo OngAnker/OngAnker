@@ -1,6 +1,7 @@
 <div align="center">
 <h2>Hello!</h2>
-![Discord Presence](https://lanyard.cnrad.dev/api/946132773620555838)
+
+![D](https://lanyard.cnrad.dev/api/946132773620555838)
 
 ### Coding Languages I Know.
 
