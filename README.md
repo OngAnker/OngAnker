@@ -9,8 +9,4 @@
 
   ![C#](https://img.shields.io/badge/CSharp-pink?logo=CSharp)
   ![C++](https://img.shields.io/badge/CPP-purple?logo=CPlusPlus)
-
-  ### Connect with Me
-
-  <b>Twitter:</b> <a href="https://x.com/anker0x">@anker0x</a>
 </div>
