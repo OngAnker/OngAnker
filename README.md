@@ -3,7 +3,7 @@
 
   ### About Me
 
-  Hey there! I'm diving into Unreal Engine and learning C++ and JavaScript. I love working on backend logic and making things run smoothly behind the scenes. I usually code with Rider, Unreal Engine, and Visual Studio Code.
+  Hey there! I'm diving into Unreal Engine and learning C++ and JavaScript. I mainly work on backend logic/gameplay logic. I usually code with Rider, and/or Visual Studio Code.
 
   ### Coding Languages I Know
 
