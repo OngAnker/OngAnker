@@ -1,10 +1,16 @@
 <div align="center">
-<h2>Hello!</h2>
+  <h2>Hello!</h2>
 
-![D](https://lanyard.cnrad.dev/api/946132773620555838)
+  ### About Me
 
-### Coding Languages I Know.
+  Hey there! I'm diving into Unreal Engine and learning C++ and JavaScript. I love working on backend logic and making things run smoothly behind the scenes. I usually code with Rider, Unreal Engine, and Visual Studio Code.
 
-![C#](https://img.shields.io/badge/CSharp-pink?logo=CSharp)
-![C++](https://img.shields.io/badge/CPP-purple?logo=CPlusPlus)
+  ### Coding Languages I Know
+
+  ![C#](https://img.shields.io/badge/CSharp-pink?logo=CSharp)
+  ![C++](https://img.shields.io/badge/CPP-purple?logo=CPlusPlus)
+
+  ### Connect with Me
+
+  - Twitter: [@anker0x](https://x.com/anker0x)
 </div>
