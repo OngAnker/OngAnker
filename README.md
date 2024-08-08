@@ -3,7 +3,7 @@
 
   ### About Me
 
-  Hey there! I'm diving into Unreal Engine and learning C++ and JavaScript. I mainly work on backend logic/gameplay logic. I usually code with Rider, and/or Visual Studio Code.
+  Hey there! I'm currently learning Unreal Engine & C++. I mainly work on backend logic/gameplay logic. I usually code with Rider, and/or Visual Studio Code.
 
   ### Coding Languages I Know
 
@@ -12,5 +12,5 @@
 
   ### Connect with Me
 
-  - Twitter: [@anker0x](https://x.com/anker0x)
+  <b>Twitter:</b> <a href="https://x.com/anker0x">@anker0x</a>
 </div>
